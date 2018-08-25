@@ -1,9 +1,9 @@
-This is my first RoR course app from Udemy
+<h1 text-align="center">This is my first RoR course app from Udemy</h1>
 
-Started on July 9, 2018
+<i text-align="center">Started on July 9, 2018</i>
 
-Building an app named Alpha-Blog by Mashrur Hussein
+<p text-align="center">Building an app named Alpha-Blog by Mashrur Hussein<br/>
 
-using Ruby 2.3.4p301 on Rails 4.2.5
+using Ruby 2.3.4p301 on Rails 4.2.5</p>
 
-repo created by <a href="https:ww.hafizalwan.com">Hafiz Alwan</a>
+<p text-align="center">repo created by <a href="https:ww.hafizalwan.com">Hafiz Alwan</a></p>
