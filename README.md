@@ -7,3 +7,6 @@
 using Ruby 2.3.4p301 on Rails 4.2.7.1</p>
 
 <p>repo created by <a href="https:www.hafizalwan.com">Hafiz Alwan</a></p>
+
+
+<p>August 25 2018 - Errors in _messages.html.erb, run the app to test</p>
