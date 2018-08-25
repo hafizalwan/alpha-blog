@@ -6,4 +6,4 @@ Building an app named Alpha-Blog by Mashrur Hussein
 
 using Ruby 2.3.4p301 on Rails 4.2.5
 
-repo created by Hafiz Alwan
+repo created by <a href="https:ww.hafizalwan.com">Hafiz Alwan</a>
